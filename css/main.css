@@ -10,8 +10,8 @@ body {
 .column {
     display: flex;
     flex-direction: column;
-    padding-left: 6px;
-    padding-right: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
     max-width: 120rem;
     padding-bottom: 1px;
 }
@@ -20,12 +20,12 @@ body {
 h1 {
     font-size: 48px;
     font-weight: bold;
-    padding-bottom: 8px;
+    padding-bottom: 24px;
 }
 
 h2 {
     font-size: 36px;
-    padding-bottom: 4px;
+    padding-bottom: 6px;
 }
 h3 {
     font-size: 30px;
@@ -33,24 +33,26 @@ h3 {
     padding-bottom: 2px;
 }
 h4 {
-    font-size: 30px;
-    font-style: italic;
-    padding-top: 4px;
-    padding-bottom: 2px;
+    font-size: 36px;
+    font-weight: bold;
+    padding-top: 24px;
+    padding-bottom: 6px;
 }
 h5 {
-    font-size: 18px;
-    font-weight: bold;
+    font-size: 30px;
     font-style: italic;
+    padding-top: 6px;
     padding-bottom: 2px;
 }
 h6 {
-    font-size: 18px;
-    padding-bottom: 2px;
+    font-size: 6px;
+    font-weight: bold;
+    font-style: italic;
 }
 
 p {
-    font-size: 6px;
+    font-size: 18px;
+    padding-bottom: 2px;
 }
 
 .demo_font_arial{
