@@ -13,7 +13,6 @@ body {
     padding-left: 5%;
     padding-right: 5%;
     max-width: 120rem;
-    padding-bottom: 1px;
 }
 
 
@@ -34,8 +33,7 @@ h3 {
 }
 h4 {
     font-size: 36px;
-    font-weight: bold;
-    padding-top: 24px;
+    padding-top: 30px;
     padding-bottom: 6px;
 }
 h5 {
