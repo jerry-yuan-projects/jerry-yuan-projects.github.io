@@ -3,29 +3,29 @@ html {
 }
 
 body {
-    padding-top: 80px;
+    padding-top: 60px;
     font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
 
 .column {
     display: flex;
     flex-direction: column;
-    padding-left: 10%;
-    padding-right: 10%;
-    max-width: 100rem;
-    padding-bottom: 10%;
+    padding-left: 6px;
+    padding-right: 6px;
+    max-width: 120rem;
+    padding-bottom: 1px;
 }
 
 
 h1 {
     font-size: 48px;
     font-weight: bold;
-    padding-bottom: 6px;
+    padding-bottom: 8px;
 }
 
 h2 {
     font-size: 36px;
-    padding-bottom: 3px;
+    padding-bottom: 4px;
 }
 h3 {
     font-size: 30px;
@@ -33,17 +33,20 @@ h3 {
     padding-bottom: 2px;
 }
 h4 {
-    font-size: 24px;
+    font-size: 30px;
+    font-style: italic;
+    padding-top: 4px;
+    padding-bottom: 2px;
 }
 h5 {
     font-size: 18px;
-    font-weight: 800;
+    font-weight: bold;
     font-style: italic;
-    padding-bottom: 1px;
+    padding-bottom: 2px;
 }
 h6 {
     font-size: 18px;
-    padding-bottom: 1px;
+    padding-bottom: 2px;
 }
 
 p {
@@ -57,6 +60,6 @@ p {
 img {
     max-width: 100%;
     height: auto;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 6px;
+    padding-bottom: 6px;
 }
