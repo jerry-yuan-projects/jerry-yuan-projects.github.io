@@ -19,32 +19,32 @@ body {
 
 h1 {
     padding-top: 15px;
-    font-size: 6.2rem;
+    font-size: 100px;
 }
 
 h2 {
     padding-top: 15px;
-    font-size: 5.4rem;
+    font-size: 75px;
 }
 h3 {
     padding-top: 15px;
-    font-size: 4.6rem;
+    font-size: 60px;
 }
 h4 {
     padding-top: 15px;
-    font-size: 3.8rem;
+    font-size: 50px;
 }
 h5 {
     padding-top: 15px;
-    font-size: 3rem;
+    font-size: 40px;
 }
 h6 {
     padding-top: 15px;
-    font-size: 2.2rem;
+    font-size: 30px;
 }
 
 p {
-    font-size: 10px;
+    font-size: 20px;
 }
 
 .demo_font_arial{
