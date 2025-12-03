@@ -38,10 +38,11 @@ h5 {
 }
 h6 {
     font-size: 18px;
+    font-style: italic;
 }
 
 p {
-    font-size: 14px;
+    font-size: 18px;
 }
 
 .demo_font_arial{
