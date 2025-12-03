@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    padding-top: 150px;
+    padding-top: 100px;
     font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
 
@@ -26,10 +26,28 @@ h1 {
 }
 
 h2 {
-    padding-top: 30px;
+    padding-top: 50px;
+    font-size: 2.9rem;
+}
+h3 {
+    padding-top: 50px;
+    font-size: 2.6rem;
+}
+h4 {
+    padding-top: 50px;
+    font-size: 2.3rem;
+}
+h5 {
+    padding-top: 50px;
+    font-size: 2rem;
+}
+h6 {
+    padding-top: 50px;
+    font-size: 1.7rem;
 }
 
 p {
+    padding-top: 25px;
     font-size: 1.4rem;
     line-height: 2rem;
 }
