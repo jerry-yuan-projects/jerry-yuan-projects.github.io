@@ -24,24 +24,19 @@ h1 {
 }
 
 h2 {
-    padding-bottom: 12px;
     font-size: 36px;
 }
 h3 {
-    padding-bottom: 6px;
     font-size: 24px;
     font-style: italic;
 }
 h4 {
-    padding-bottom: 4px;
     font-size: 22px;
 }
 h5 {
-    padding-bottom: 4px;
     font-size: 20px;
 }
 h6 {
-    padding-bottom: 4px;
     font-size: 18px;
 }
 
